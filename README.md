@@ -1,5 +1,5 @@
 # BearWannaCatalog
-BearWannaCatalog - Catalog your MDs by tag.
+😤BearWannaCatalog - Catalog your MDs by tag.
 
 ## Usage
 
